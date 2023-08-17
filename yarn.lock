@@ -15,6 +15,11 @@
   resolved "https://registry.yarnpkg.com/@type-cacheable/lru-cache-adapter/-/lru-cache-adapter-15.0.0.tgz#42573f8d725ee3145794c1294642b3c033562eb2"
   integrity sha512-ekAmd7JYp1m5BwG/B3fLhSCoN/iLR/irUeEo2lqpSXoriNTxYzQ5I4z0+tZOnHVxGA9HYxR1tjRqVZ07xotAIw==
 
+"@types/node@18":
+  version "18.17.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.5.tgz#c58b12bca8c2a437b38c15270615627e96dd0bc5"
+  integrity sha512-xNbS75FxH6P4UXTPUJp/zNPq6/xsfdJKussCWNOnz4aULWIRwMgP1LgaB5RiBnMX1DPCYenuqGZfnIAx5mbFLA==
+
 lru-cache@^10.0.1:
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-10.0.1.tgz#0a3be479df549cca0e5d693ac402ff19537a6b7a"
